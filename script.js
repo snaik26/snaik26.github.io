@@ -23,10 +23,4 @@ stars.forEach(star=>{
 //email contact
 function sendEmail() {
     window.location.href = "mailto:naik.srushti@gmail.com";
-  }
-
-//example scroll function
-//function onLinkClick() {
-    //document.getElementsByTagName('h2')[3].scrollIntoView();
-    // will scroll to 4th h3 element
-  //} 
+}
