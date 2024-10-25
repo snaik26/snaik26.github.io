@@ -153,6 +153,7 @@ html {
     font-size: 3em;
     font-weight: 600;
     color: #3d3d3d;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -333,6 +334,7 @@ h3 {
     font-size: 1.5em;
     font-weight: bolder;
     color: #3d3d3d;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
